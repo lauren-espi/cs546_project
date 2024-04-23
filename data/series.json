@@ -5,7 +5,7 @@
         "figurineTypes": [
             {
                 "modelName": "Carrot",
-                "rare": false,
+                "rare": true,
                 "image_url": "https://www.sonnyangel.com/renewal/wp-content/uploads/2019/10/Carrot.png"
             },
             {
